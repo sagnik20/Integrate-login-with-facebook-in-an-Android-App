@@ -35,7 +35,7 @@
         android:layout_height="110dp"
         android:gravity="center"
         android:text="Login Status!"
-        android:textSize="50sp"
+        android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
